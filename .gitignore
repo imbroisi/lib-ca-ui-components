@@ -1,0 +1,9 @@
+# Exclude
+node_modules/
+*.log
+*.tgz
+
+# Include (DO NOT ignore these)
+!dist/cjs/
+!dist/esm/
+!dist/types/
