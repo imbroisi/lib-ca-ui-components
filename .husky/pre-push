@@ -1,12 +1,12 @@
 #!/bin/sh
 
-echo $1
+# echo $1
 
-echo
-echo "\tIn this project we do not use push because of automatic version control."
-echo "\tTake a look at the README on how to push and publish your work."
-echo
+# echo
+# echo "\tIn this project we do not use push because of automatic version control."
+# echo "\tTake a look at the README on how to push and publish your work."
+# echo
 
-echo $1
+# echo $1
 
-exit 1
+# exit 1
