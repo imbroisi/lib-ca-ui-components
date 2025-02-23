@@ -11,5 +11,5 @@
 
 # exit 1
 
-git add .
 npm run build 
+git add .
