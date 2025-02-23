@@ -10,3 +10,5 @@
 # echo $1
 
 # exit 1
+
+npm build
