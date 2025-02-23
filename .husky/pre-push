@@ -11,4 +11,4 @@
 
 # exit 1
 
-npm build
+npm run build 
