@@ -5,5 +5,5 @@ export interface HelloWorldProps {
 }
 
 export const HelloWorld: React.FC<HelloWorldProps> = ({ name = 'World' }) => {
-  return <h1>Hello! Good morning, {name}</h1>;
+  return <h1 style={{ whiteSpace: 'nowarp'}}>Hi {name}</h1>;
 };
