@@ -4,6 +4,4 @@ node_modules/
 *.tgz
 
 # Include (DO NOT ignore these)
-!dist/cjs/
-!dist/esm/
-!dist/types/
+
